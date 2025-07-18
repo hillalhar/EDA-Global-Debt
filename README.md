@@ -5,5 +5,5 @@ The main goal of this project is to "snapshot" and understand the global debt la
 Dataset used in this EDA are from
 [worldbank-dataset](https://data.worldbank.org/)
 
-note
+'note'     
 Some plot codes cannot be viewed directly from the .ipynb file. To view the complete graph, you can access it in the `interactive-plot` folder.
